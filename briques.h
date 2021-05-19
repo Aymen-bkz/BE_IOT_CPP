@@ -10,7 +10,7 @@ class Briques
 public:
     int x,y;
     int r;
-    int c=2; //collone
+    int c=5; //collone
     int w=90; // largeur
     int h=10; // hauteur
     int p=20; // padding

@@ -110,7 +110,7 @@ void gameInit:: resetGame() {
         
         this->briques.b_array.clear();
         this->json.b_array.clear();
-        this->briques.r = 1;
+        this->briques.r = 2;
         this->briques.setBriques();
 
         this->json.b_array = briques.b_array;

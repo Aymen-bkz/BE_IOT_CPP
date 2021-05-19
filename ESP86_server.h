@@ -16,8 +16,8 @@ void handleRoot() {
 
 
 void init_server() {
-	char ssid[] = "YOUR-SSID";  // use your own network ssid and password
-	char pass[] = "WIFI-PASSWORD";
+  char ssid[] = "AndroidAPBD99";  // use your own network ssid and password
+  char pass[] = "chks9274"; 
 	// Connect to a WiFi network	Serial.print(F("Connecting to "));  Serial.println(ssid);
 	WiFi.begin(ssid, pass);
 

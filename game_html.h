@@ -74,7 +74,7 @@ char html_1[]  PROGMEM = R"=====(
             ctx.beginPath();
         
             ctx.arc(data_obj.ball_x, data_obj.ball_y, 5, 0, Math.PI*2);
-            ctx.fillStyle = "blue";
+            ctx.fillStyle = "aqua";
             ctx.fill();
         
             ctx.strokeStyle = '#6198d8';
