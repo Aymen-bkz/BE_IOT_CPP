@@ -16,5 +16,5 @@ N'hésitez pas à cliquer sur le bouton RST si vous ne voyez pas l'adresse IP
 
 
 
-Une fois connecté, sur votre navigateur, allez sur l'adresse IP du serveur http://IP et puis profiter de jouer 
+Une fois connecté, sur votre navigateur, allez sur l'adresse IP du serveur http://[IP_Adress] et puis profiter de jouer 
 
